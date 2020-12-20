@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/fcc-js-clock/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/fcc-js-clock/static/js/main.f9785957.chunk.js",
+    "main.js.map": "/fcc-js-clock/static/js/main.f9785957.chunk.js.map",
+    "runtime-main.js": "/fcc-js-clock/static/js/runtime-main.0dffc66f.js",
+    "runtime-main.js.map": "/fcc-js-clock/static/js/runtime-main.0dffc66f.js.map",
+    "static/js/2.9cf6127a.chunk.js": "/fcc-js-clock/static/js/2.9cf6127a.chunk.js",
+    "static/js/2.9cf6127a.chunk.js.map": "/fcc-js-clock/static/js/2.9cf6127a.chunk.js.map",
+    "static/js/3.a5f0f79e.chunk.js": "/fcc-js-clock/static/js/3.a5f0f79e.chunk.js",
+    "static/js/3.a5f0f79e.chunk.js.map": "/fcc-js-clock/static/js/3.a5f0f79e.chunk.js.map",
+    "index.html": "/fcc-js-clock/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/fcc-js-clock/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.9cf6127a.chunk.js.LICENSE.txt": "/fcc-js-clock/static/js/2.9cf6127a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0dffc66f.js",
+    "static/js/2.9cf6127a.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.f9785957.chunk.js"
+  ]
+}
